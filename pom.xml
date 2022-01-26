@@ -5,32 +5,32 @@
     <modelVersion>4.0.0</modelVersion>
 
     <parent>
-        <groupId>com.rbkmoney</groupId>
+        <groupId>dev.vality</groupId>
         <artifactId>library-parent-pom</artifactId>
         <version>1.0.2</version>
     </parent>
 
     <artifactId>custom-metrics-spring-boot-starter</artifactId>
-    <version>1.2.5</version>
+    <version>1.0.0</version>
     <packaging>jar</packaging>
 
     <name>Custom metrics Spring Boot starter</name>
     <description>Starter for StatsD and Prometheus custom metrics</description>
-    <url>https://github.com/rbkmoney/custom-metrics-spring-boot-starter.git</url>
+    <url>https://github.com/valitydev/custom-metrics-spring-boot-starter.git</url>
 
     <developers>
         <developer>
             <name>Konstantin Struzhkin</name>
-            <email>k.struzhkin@rbk.money</email>
-            <organization>RBK.money</organization>
-            <organizationUrl>https://rbk.money</organizationUrl>
+            <email>k.struzhkin@vality.dev</email>
+            <organization>vality.dev</organization>
+            <organizationUrl>https://vality.dev</organizationUrl>
         </developer>
     </developers>
 
     <scm>
-        <connection>scm:git:git://github.com/rbkmoney/custom-metrics-spring-boot-starter.git</connection>
-        <developerConnection>scm:git:ssh://github.com/rbkmoney/custom-metrics-spring-boot-starter.git</developerConnection>
-        <url>https://github.com/rbkmoney/custom-metrics-spring-boot-starter/tree/master</url>
+        <connection>scm:git:git://github.com/valitydev/custom-metrics-spring-boot-starter.git</connection>
+        <developerConnection>scm:git:ssh://github.com/valitydev/custom-metrics-spring-boot-starter.git</developerConnection>
+        <url>https://github.com/valitydev/custom-metrics-spring-boot-starter/tree/master</url>
     </scm>
 
     <properties>

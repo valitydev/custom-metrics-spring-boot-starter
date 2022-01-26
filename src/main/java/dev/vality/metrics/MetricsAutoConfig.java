@@ -1,4 +1,4 @@
-package com.rbkmoney.metrics;
+package dev.vality.metrics;
 
 import io.micrometer.core.instrument.MeterRegistry;
 import org.springframework.beans.factory.annotation.Value;
