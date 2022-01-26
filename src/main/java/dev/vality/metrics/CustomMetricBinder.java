@@ -1,4 +1,4 @@
-package com.rbkmoney.metrics;
+package dev.vality.metrics;
 
 import com.sun.management.GarbageCollectorMXBean;
 import com.sun.management.OperatingSystemMXBean;
